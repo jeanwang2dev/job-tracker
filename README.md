@@ -1,3 +1,5 @@
-My PHP MVC Web Application
-A course project from WEB250 at WCC
-Tracks job hours of projects of work
+My PHP MVC Web Application.
+
+This is A course project from WEB250 at WCC.
+
+It tracks job hours of projects of work
